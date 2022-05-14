@@ -1,18 +1,1 @@
-<mxfile host="65bd71144e">
-    <diagram name="聚合" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-        <mxGraphModel dx="871" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-            </root>
-        </mxGraphModel>
-    </diagram>
-    <diagram id="y57ESgfZo5Q0gPeMH4wc" name="組合">
-        <mxGraphModel dx="871" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="CHDtnuDMMGn6DQg8g9th-0"/>
-                <mxCell id="CHDtnuDMMGn6DQg8g9th-1" parent="CHDtnuDMMGn6DQg8g9th-0"/>
-            </root>
-        </mxGraphModel>
-    </diagram>
-</mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-14T08:53:33.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="18.0.4" etag="t1CiWqCAmjBtZc85RO62" type="device" pages="2"><diagram name="聚合" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">7VdLc5swEP41OqbD23A0NkkPSZsZt9P4lFGQApoK5BFyDPn1FSAZBEmTeDJtDpnxQfvtQ9J+u1oM3FVRX3C4y68YwhQ4FqqBuwaOY3uOA9qfhZoeWbhhD2ScIGU0ABvyiBVoKXRPEK4MQ8EYFWRngikrS5wKA4Ocs4Npds+ouesOZngGbFJI5+gvgkTeo6GzGPCvmGS53tkOol5zB9PfGWf7Uu1XshL3mgLqMOqOVQ4RO4wgNwHuijMm+lVRrzBt06oz1vudP6M9HpnjUrzG4fbbjbv8bu9W3mJr/zxDF3wLz1SUB0j3KhUgWYDYBXHcLXwQ2yDxQRiCMABJAKIERPpCotH5qw6koFBe3Y3vWSk2SmNJOc0JRZewYfv2lJWQCdNSnDNOHqU9pFJlS0CquVDl4QRtNELpilHGJdDlduy0aYOpbTiupNu1zoY9ga5gbRhewkroAzJK4a4id92RW8cC8oyUMROCFcpIpQlzgetn828fWZWNglmBBW+kiXJwPZU31SO2LozDUHG2tslH1ear5oKqyLNj6IFtuVCEv4H8aE7+lFhcomXbX1JCBBasRD9yUsqESMU5abfr0iMlzZrXUiQKzWjXGxgd7eS5b1rhi+NreatMO2Fdj03XjZZqIno/X0nbkWZwaoXG4AyjWetPGJMXZnue4r+1iaJFlmeGxUv9NC+BMcWBisUxhYI8mId7imMV7poReeyhnCyznJzQMkP0l1Je43dhGiiYBPIngfpLzwJ1JXe84+lVqHNrvEE+WK5BHLZvUOSB6Hz5+eSc8OTIIjGpjf73k2M/NXCmZMefZJ9Atud/OLKdfz9gTpgTo6G0eNNQes8Bo796P86A8aIX5sJrB0wwLcx3GzBSHL6fe/Ph/4mb/AE=</diagram><diagram id="y57ESgfZo5Q0gPeMH4wc" name="組合">7VjbbqMwEP0aP+4qXEzgMVzaatVI3c2u2j56wQWrBkfGNNCvXxPscEmktFHTdqVKefAce8b2nOMZBWAFeX3J0TpbsgRTYM6SGlghME3DNk3Q/mZJ0yFzy+2AlJNELeqBFXnGCpwptCIJLkcLBWNUkPUYjFlR4FiMMMQ524yXPTA63nWNUrwHrGJE99FbkoisQ11z3uNXmKSZ3tlwvG4mR3qxukmZoYRtBpAVASvgjIlulNcBpm3ydF6Cq1AUVbhcXhZO+DN1U09k37pgF69x2V2B40KcHPpPE//CK/Ljqbx8vOVXFYWmo1xmT4hWKl8gcsHCAG4AIghcH3hwi1jAC0E0B34IFpHKh2h0kssNySkqpOU/sEKs1MxM2nFGaHKNGla1Ry8Fih+15WeMk2e5HlE5ZUhATnOhNGQ6bTRCacAo4xIo2HaD3mnVBlPbcFxKtxudImMCLVE9WniNSqEPyChF65L83R65dcwRT0nhMyFYrhapNGEucD3R1RFSjJ1S5BPDLMeCN9JPRbFsu4ujXpc5U4xseq0atsKygU6hepZIPY90F7qXgBwoFbxCEe5BRfhSCBcg8sBCDuwv/t+K/x3fin8LfjT/3j7/U7ZxkSzayiythKCcFcnvjBQyS3LiglBNprQ0lXbLm8j1DGdVkeBE5RbXRNy14+9QWfeDmbAeGo02CnnXzsmE2r7fbSyN3m9rNSMicbLXNF5Co8wCq3iMjz8fqeMUi2OFd18WQ9odRTvHFAnyND7wId5VuBtG5FUGJWYiMS05HaK7k/IaNpBJIDjV6jRQd+m9QFsZ7u54ujKNQ83KA54PfAdEdluj5OCrNL1RabKdz1aaDOP9a1NfZ+avqjOnFLVz1yb9gD5RcbLhRGTuicXJMY4EOndxMj9Sm/+/NK0XStN4P21CaywpaJyqzYnIofPO2rQONE4IFjbwZON02j90fvDVOM/VOKF5vsYpzf4DRKeX/jOOFf0D</diagram></mxfile>
